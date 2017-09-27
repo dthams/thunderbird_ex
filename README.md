@@ -1,2 +1,3 @@
-# thunderbird_ex
-Thunderbird Exchange Add-on
+# Thunderbird Exchange Add-on
+
+v3.8.0
